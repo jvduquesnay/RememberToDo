@@ -18,6 +18,10 @@ The following **additional** features are implemented:
 * [ ] Improve the UI / UX including icons, styling, and color
 * [ ] Improve style of the todo items in the list using a custom adapter
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+<img src='Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
